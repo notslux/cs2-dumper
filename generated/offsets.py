@@ -1,5 +1,5 @@
 '''
-Created using https://github.com/a2x/cs2-dumper
+Created using https://github.com/notslux/cs2-dumper
 Thu, 14 Dec 2023 15:21:21 +0000
 '''
 
